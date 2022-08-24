@@ -18,5 +18,5 @@ app.use("/api/user", userRoutes)
 
 
 app.listen(port, () => {
-  console.log(`Server listening at http://localhost:${port}`)
+  console.log(`The Serve is listening at at http://localhost:${port}`)
 })
